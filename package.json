@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/stevencl/greeter#readme",
   "dependencies": {
-    "dateutil": "^0.1.0"
   }
 }
