@@ -1,8 +1,14 @@
+var textMsg = '{insert name here}';
+exports.textMsg = textMsg;
+
 var greeting = function(msg){
-    return msg.concat(' from {insert name here}');
+    return msg.concat(' from ').concat(textMsg);
 }
 exports.greeting = greeting;
 
-function randomFunction() {
-    var f = 42;
-}
+// var magicNumber = function magicNumber() {
+//     var f = 42;
+//     return f;
+// }
+
+// exports.magicNumber = magicNumber;

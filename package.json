@@ -1,0 +1,22 @@
+{
+  "name": "utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "type nul >testing.testresults"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevencl/greeter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevencl/greeter/issues"
+  },
+  "homepage": "https://github.com/stevencl/greeter#readme",
+  "dependencies": {
+    "dateutil": "^0.1.0"
+  }
+}
